@@ -6,6 +6,8 @@ namespace heist_goudas
 {
     public class Team
     {
+        public int SuccessfulHeists { get; set; }
+        public int UnsuccessfulHeists { get; set; }
         private List<TeamMember> AllTeamMembers { get; set; }
         public Team()
         {
@@ -38,10 +40,12 @@ namespace heist_goudas
             Console.WriteLine($"The Bank's Difficulty: {bankLevel}");
             if (totalSkill >= bankLevel)
             {
+                SuccessfulHeists++;
                 Console.WriteLine("Congratulations, you have successfully robbed a bank.  I hope you feel good about yourself, I guess...");
             }
             else
             {
+                UnsuccessfulHeists++;
                 Console.WriteLine("Hope you have a good lawyer...");
             }
         }
