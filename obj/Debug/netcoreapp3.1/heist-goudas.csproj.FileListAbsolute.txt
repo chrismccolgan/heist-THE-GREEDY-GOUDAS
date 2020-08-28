@@ -37,3 +37,16 @@ C:\Users\mccol\workspace\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-g
 C:\Users\mccol\workspace\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.dll
 C:\Users\mccol\workspace\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.pdb
 C:\Users\mccol\workspace\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.genruntimeconfig.cache
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.exe
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.deps.json
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.runtimeconfig.json
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.runtimeconfig.dev.json
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.dll
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.pdb
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.csprojAssemblyReference.cache
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.AssemblyInfoInputs.cache
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.AssemblyInfo.cs
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.csproj.CoreCompileInputs.cache
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.dll
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.pdb
+C:\Users\tlane\workspace\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.genruntimeconfig.cache
