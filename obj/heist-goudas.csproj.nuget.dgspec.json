@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\brend\\workspace\\csharp\\heist-THE-GREEDY-GOUDAS\\heist-goudas.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\mccol\\workspace\\heist-THE-GREEDY-GOUDAS\\heist-goudas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mccol\\workspace\\heist-THE-GREEDY-GOUDAS\\heist-goudas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mccol\\workspace\\heist-THE-GREEDY-GOUDAS\\heist-goudas.csproj",
+        "projectName": "heist-goudas",
+        "projectPath": "C:\\Users\\mccol\\workspace\\heist-THE-GREEDY-GOUDAS\\heist-goudas.csproj",
+        "packagesPath": "C:\\Users\\mccol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mccol\\workspace\\heist-THE-GREEDY-GOUDAS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mccol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 5ac0951e5b7d9a7cca6b7a11eb1669eaefa3097a
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

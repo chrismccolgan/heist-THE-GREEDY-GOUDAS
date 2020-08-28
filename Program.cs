@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace heist_goudas
 {
@@ -7,26 +6,44 @@ namespace heist_goudas
     {
         static void Main(string[] args)
         {
+            Team newTeam = new Team();
+            bool loop = true;
+
             Console.WriteLine("Plan Your Heist!");
 
-            Console.Write("What is your name? ");
-            string name = Console.ReadLine();
+            while (loop)
+            {
+                Console.WriteLine();
+                Console.Write("What is your name? ");
+                string name = Console.ReadLine();
 
-            Console.Write("What is your skill level? ");
-            string stringSkill = Console.ReadLine();
-            int skill = Int32.Parse(stringSkill);
+                if (name != "")
+                {
+                    Console.Write("What is your skill level? ");
+                    string stringSkill = Console.ReadLine();
+                    int skill = Int32.Parse(stringSkill);
 
-            Console.Write("How courageous are you? ");
-            string stringCourage = Console.ReadLine();
-            double courage = double.Parse(stringCourage);
+                    Console.Write("How courageous are you? ");
+                    string stringCourage = Console.ReadLine();
+                    double courage = double.Parse(stringCourage);
 
-            TeamMember firstMember = new TeamMember(name);
-            firstMember.SkillLevel = skill;
-            firstMember.CourageFactor = courage;
+                    TeamMember newMember = new TeamMember(name);
+                    newMember.SkillLevel = skill;
+                    newMember.CourageFactor = courage;
 
-            firstMember.DisplayTeamMember(firstMember);
+                    newTeam.AddTeamMember(newMember);
+                }
+                else
+                {
+                    loop = false;
+                }
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("-------------");
+            Console.WriteLine("THE TEAM:");
+            Console.WriteLine("-------------");
+            newTeam.DisplayMembers();
         }
-
     }
-
 }
