@@ -11,3 +11,16 @@ C:\Users\brend\workspace\csharp\heist-goudas\heist-goudas\obj\Debug\netcoreapp3.
 C:\Users\brend\workspace\csharp\heist-goudas\heist-goudas\obj\Debug\netcoreapp3.1\heist-goudas.dll
 C:\Users\brend\workspace\csharp\heist-goudas\heist-goudas\obj\Debug\netcoreapp3.1\heist-goudas.pdb
 C:\Users\brend\workspace\csharp\heist-goudas\heist-goudas\obj\Debug\netcoreapp3.1\heist-goudas.genruntimeconfig.cache
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.exe
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.deps.json
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.runtimeconfig.json
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.runtimeconfig.dev.json
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.dll
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\bin\Debug\netcoreapp3.1\heist-goudas.pdb
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.csprojAssemblyReference.cache
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.AssemblyInfoInputs.cache
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.AssemblyInfo.cs
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.csproj.CoreCompileInputs.cache
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.dll
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.pdb
+C:\Users\nickg\workspace\csharp\group-project\heist-THE-GREEDY-GOUDAS\obj\Debug\netcoreapp3.1\heist-goudas.genruntimeconfig.cache
