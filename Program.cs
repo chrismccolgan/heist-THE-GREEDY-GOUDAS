@@ -9,7 +9,10 @@ namespace heist_goudas
             Team newTeam = new Team();
             bool loop = true;
 
-            int BankDifficulty = 100;
+            int luck = new Random().Next(-10, 10);
+            Console.WriteLine(luck);
+            int BankDifficulty = 100 + luck;
+   
 
             Console.WriteLine("Plan Your Heist!");
 
