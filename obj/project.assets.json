@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\nickg\\.nuget\\packages\\": {}
+    "C:\\Users\\mccol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nickg\\workspace\\csharp\\group-project\\heist-THE-GREEDY-GOUDAS\\heist-goudas.csproj",
+      "projectUniqueName": "C:\\Users\\mccol\\workspace\\heist-THE-GREEDY-GOUDAS\\heist-goudas.csproj",
       "projectName": "heist-goudas",
-      "projectPath": "C:\\Users\\nickg\\workspace\\csharp\\group-project\\heist-THE-GREEDY-GOUDAS\\heist-goudas.csproj",
-      "packagesPath": "C:\\Users\\nickg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nickg\\workspace\\csharp\\group-project\\heist-THE-GREEDY-GOUDAS\\obj\\",
+      "projectPath": "C:\\Users\\mccol\\workspace\\heist-THE-GREEDY-GOUDAS\\heist-goudas.csproj",
+      "packagesPath": "C:\\Users\\mccol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mccol\\workspace\\heist-THE-GREEDY-GOUDAS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nickg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mccol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
