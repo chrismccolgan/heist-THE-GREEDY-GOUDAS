@@ -9,6 +9,8 @@ namespace heist_goudas
             Team newTeam = new Team();
             bool loop = true;
 
+            int BankDifficulty = 100;
+
             Console.WriteLine("Plan Your Heist!");
 
             while (loop)
@@ -39,11 +41,11 @@ namespace heist_goudas
                 }
             }
 
-            Console.WriteLine();
-            Console.WriteLine("-------------");
-            Console.WriteLine("THE TEAM:");
-            Console.WriteLine("-------------");
             newTeam.DisplayMembers();
+            newTeam.SkillSum(BankDifficulty);
+
+            // if (BankDifficulty > newTeam.SkillSum)
+
         }
     }
 }
