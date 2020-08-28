@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "kSTfGms3QBUqMTTHrW9xhaL1aux2cV4bNNO7mDabblPZSHPUbR59BQ2GBOnDDoEdNEPFP3Q1H0udjTNUXlf9pQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\brend\\workspace\\csharp\\heist-THE-GREEDY-GOUDAS\\heist-goudas.csproj",
-=======
-  "dgSpecHash": "XSOIC8ydPF6naKQQiV++KyryfZYnDb/NEVfnC2YQUjtr63CxnFnpuFQj6PU6xxTREbJypzf81uouKClleL1DDg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\mccol\\workspace\\heist-THE-GREEDY-GOUDAS\\heist-goudas.csproj",
->>>>>>> 5ac0951e5b7d9a7cca6b7a11eb1669eaefa3097a
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\brend\\workspace\\csharp\\heist-THE-GREEDY-GOUDAS\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
